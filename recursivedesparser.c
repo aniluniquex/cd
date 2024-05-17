@@ -76,3 +76,4 @@ void f() {
         error = 1;
     }
 }
+// a*b+c
